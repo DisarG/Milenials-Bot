@@ -1,0 +1,126 @@
+{
+  "users": {
+    "59896933350@s.whatsapp.net": {
+      "afk": -1,
+      "afkReason": "",
+      "age": 22,
+      "banned": false,
+      "BannedReason": "",
+      "Banneduser": false,
+      "limit": 15,
+      "money": 150,
+      "premium": false,
+      "premiumTime": 0,
+      "name": "hikaͧͧͧͦꙶͣͤ✓ᚲᴳᴮ",
+      "GBLanguage": "es",
+      "regTime": 1697935404834,
+      "registered": true,
+      "role": "*NOVATO(A)* 🪤",
+      "exp": 516
+    }
+  },
+  "chats": {
+    "59896933350@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiver": true,
+      "modoadmin": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiTiktok": false,
+      "antiYoutube": false,
+      "antiTelegram": false,
+      "antiFacebook": false,
+      "antiInstagram": false,
+      "antiTwitter": false,
+      "antifake": false,
+      "antiTraba": true,
+      "antitoxic": true,
+      "reaction": true,
+      "expired": 0
+    },
+    "120363194004357935@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiver": true,
+      "modoadmin": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiTiktok": false,
+      "antiYoutube": false,
+      "antiTelegram": false,
+      "antiFacebook": false,
+      "antiInstagram": false,
+      "antiTwitter": false,
+      "antifake": false,
+      "antiTraba": true,
+      "antitoxic": true,
+      "reaction": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "buscadores.js": {
+      "total": 22,
+      "success": 22,
+      "last": 1697936769545,
+      "lastSuccess": 1697936769545
+    },
+    "rpg-verificar.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1697935407443,
+      "lastSuccess": 1697935407443
+    },
+    "info.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1697935799165,
+      "lastSuccess": 1697935799165
+    },
+    "grupos-admin.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1697936639257,
+      "lastSuccess": 1697936639257
+    },
+    "menu-menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1697935991980,
+      "lastSuccess": 1697935991980
+    },
+    "config-on y off.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1697936012614,
+      "lastSuccess": 1697936012614
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "59896933350@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": true,
+      "antiPrivate": false,
+      "jadibotmd": true,
+      "status": 1697935375176
+    }
+  }
+}
